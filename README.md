@@ -1,11 +1,8 @@
-# Blood Bonds: Saving Lives Through Digital Connection
-
-![Blood Bonds Logo](https://example.com/logo.png)
-
+# रक्तदातृ: Empowering Timely Donations
 ## Description
-Blood Bonds is a comprehensive online platform designed to revolutionize the blood donation ecosystem. Our mission is to connect donors, patients, and hospitals seamlessly, ensuring timely access to life-saving transfusions and enhancing community engagement.
+रक्तदातृ is a comprehensive online platform designed to revolutionize the blood donation ecosystem. Our mission is to connect donors, patients, and hospitals seamlessly, ensuring timely access to life-saving transfusions and enhancing community engagement.
 
-### Why Blood Bonds?
+### Why रक्तदातृ?
 - **Streamlined Process**: Say goodbye to long waits and cumbersome paperwork. With Blood Bonds, blood donation is just a few clicks away.
 - **Enhanced Matching**: Our advanced algorithms ensure that donors are matched with compatible blood types to patients, optimizing the transfusion process.
 - **Community Impact**: By fostering partnerships with hospitals and engaging donors, Blood Bonds creates a positive impact on blood donation initiatives.
@@ -32,7 +29,7 @@ Blood Bonds is a comprehensive online platform designed to revolutionize the blo
 We welcome contributions from the community to improve Blood Bonds. Whether it's fixing bugs, adding new features, or suggesting improvements, we value your input. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## Support
-If you encounter any issues or have questions about Blood Bonds, our support team is here to help. Please [contact us](mailto:contact@bloodbonds.com) for assistance.
+If you encounter any issues or have questions about Blood Bonds, our support team is here to help.
 
 ## Roadmap
 Here are some upcoming features and enhancements we plan to implement in future releases:
